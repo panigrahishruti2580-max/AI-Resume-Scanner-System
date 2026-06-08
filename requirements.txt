@@ -8,3 +8,6 @@ plotly
 pdfplumber
 PyPDF2
 PyMuPDF
+sentence-transformers
+torch
+transformers
