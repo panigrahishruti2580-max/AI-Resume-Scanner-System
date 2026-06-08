@@ -7,3 +7,4 @@ matplotlib
 plotly
 pdfplumber
 PyPDF2
+PyMuPDF
